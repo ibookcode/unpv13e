@@ -6,4 +6,10 @@
 
 intro/daytimetcpcli.c
 
+## 1.3 Protocol Independence
+
 intro/daytimetcpcliv6.c
+
+## 1.5 A Simple Daytime Server
+
+intro/daytimetcpsrv.c
